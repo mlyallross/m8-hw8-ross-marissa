@@ -1,4 +1,5 @@
 svg {
     width: 50%;
     background-color: purple;
+    position: absolute;
 }
